@@ -10,7 +10,6 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 rounded-lg bg-gradient-to-r from-blue-500 to-purple-600"></div>
               <span className="text-2xl font-bold">Thryve</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
@@ -77,7 +76,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Thryve. All rights reserved.
+            © 2025 Thryve. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm mt-4 md:mt-0">
             Built with ❤️ for the AI community

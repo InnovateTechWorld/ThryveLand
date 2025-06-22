@@ -102,7 +102,7 @@ const ProductDemo = () => {
                   <Button
                     size="lg"
                     className="bg-white/20 backdrop-blur-sm hover:bg-white/30 border border-white/30"
-                    onClick={() => window.open('https://www.youtube.com/watch?v=example', '_blank')}
+                    onClick={() => window.open('https://youtu.be/AA44FDTMUMg', '_blank')}
                   >
                     <Play className="w-6 h-6 mr-2" />
                     Watch Demo (60s)
